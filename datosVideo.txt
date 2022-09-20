@@ -1,0 +1,32 @@
+p Goodfellas Ray_Liotta Martin_Scorsese drama 1990 5 146 Gran_pelicula
+s Breaking_Bad Principio_del_fin 1 1 Bryan_Cranston Vince_Gilligan drama 2008 4 0001
+s Breaking_Bad El_gato_en_la_bolsa 1 2 Bryan_Cranston Vince_Gilligan drama 2008 3 3432
+s Breaking_Bad Y_la_bolsa_en_el_rio 1 3 Bryan_Cranston Vince_Gilligan drama 2008 2 0342
+s Breaking_Bad Cancer 1 4 Bryan_Cranston Vince_Gilligan drama 2008 4 4340
+s Breaking_Bad Materia_Gris 1 5 Bryan_Cranston Vince_Gilligan drama 2008 3 9029
+s Breaking_Bad Un_loco_punado_de_nada 1 6 Bryan_Cranston Vince_Gilligan drama 2008 5 2323
+s Breaking_Bad Acuerdo_no_violento 1 7 Bryan_Cranston Vince_Gilligan drama 2008 5 4455
+p Inception Leonardo_Dicaprio Cristopher_Nolan ficcion 2010 5 148 La_mejor_pelicula_de_ciencia_ficcion
+p Salvando_al_soldado_Ryan Tom_Hanks Steven_Spielberg accion 1998 4 169 Cruda_y_realista_de_las_mejores_peliculas_de_guerra
+s Game_Of_Thrones The_read_woman 6 1 Peter_Dinklage Jeremy_Podeswa accion 2016 4 4678
+s Game_Of_Thrones Home 6 2 Peter_Dinklage Jeremy_Podeswa accion 2016 4 4748
+s Game_Of_Thrones Oathbreaker 6 3 Peter_Dinklage Jeremy_Podeswa accion 2016 2 4058
+s Game_Of_Thrones Book_of_the_stranger 6 4 Peter_Dinklage Jeremy_Podeswa accion 2016 4 4099
+s Game_Of_Thrones The_door 6 5 Peter_Dinklage Jeremy_Podeswa accion 2016 3 4112
+s Game_Of_Thrones Blood_of_my_blood 6 6 Peter_Dinklage Jeremy_Podeswa accion 2016 4 4303
+s Game_Of_Thrones The_broken_man 6 7 Peter_Dinklage Jeremy_Podeswa accion 2016 3 4675
+s Game_Of_Thrones No_one 6 8 Peter_Dinklage Jeremy_Podeswa accion 2016 5 4003
+s Game_Of_Thrones Battle_of_the_bastards 6 9 Peter_Dinklage Jeremy_Podeswa accion 2016 5 9839
+s Game_Of_Thrones The_winds_of_winter 6 10 Peter_Dinklage Jeremy_Podeswa accion 2016 5 9078
+p Wiplash Miles_Teller Damien_Chazelle drama 2014 5 106 Muestra_lo_la_pasion_por_el_arte_puede_hacer
+p Crepusculo Kriten_Stewart Catherine_Hadwicke ficcion 2008 1 121 una_entretenida_pero_mala_pelicula
+s Dark Principios_y_finales 2 1 Louis_Hofmann Baran_bo_Odar ficcion 2020 5 2982
+s Dark Materia_oscura 2 2 Louis_Hofmann Baran_bo_Odar ficcion 2020 4 2442
+s Dark Fantasmas 2 3 Louis_Hofmann Baran_bo_Odar ficcion 2020 5 2342
+s Dark Los_Viajeros 2 4 Louis_Hofmann Baran_bo_Odar ficcion 2020 3 9884
+s Dark Perdido_y_encontrado 2 5 Louis_Hofmann Baran_bo_Odar ficcion 2020 5 0932
+s Dark Un_ciclo_sin_fin 2 6 Louis_Hofmann Baran_bo_Odar ficcion 2020 4 4582
+s Dark El_demonio_Blanco 2 7 Louis_Hofmann Baran_bo_Odar ficcion 2020 3 5442
+s Dark Finales_e_inicios 2 8 Louis_Hofmann Baran_bo_Odar ficcion 2020 4 9909
+p Rougue_One Felicity_Jones Gareth_Edwards accion 2016 2 133 Una_buena_precuela_de_la_historia_que_nos_da_starwars
+p Pasajeros Jennifer_Lawrence Morten_Tyldum ficcion 2016 3 116 Interesante_historia_futurista
